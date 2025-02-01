@@ -20,3 +20,7 @@ Currently, I work part-time at a **Cloud Engineering Lab**, where I explore **AW
 - Email: rokbnoc@gmail.com
 
 💡 **Always open to collaboration and learning new technologies!**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
