@@ -1,5 +1,4 @@
-https://github.com/Rok-cyber/rok-cyber/issues/1#issue-2825329093
-### Hi there! 👋  
+![Image](https://github.com/user-attachments/assets/de749831-c513-4639-989e-40f804b437c1)### Hi there! 👋  
 
 I'm a **Senior CS student at UW-Madison** with a passion for **Backend Development & Cloud Engineering**.  
 Currently, I work part-time at a **Cloud Engineering Lab**, where I explore **AWS, distributed systems, and DevOps**.  
